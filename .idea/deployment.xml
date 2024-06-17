@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="yhf@10.26.64.197:22 key" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="yhf@10.26.64.197:22 key">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/yhf/sghunter" local="$PROJECT_DIR$" />
+            <mapping deploy="/home/yhf/darpa2sysdig" local="E:/DARPA/darpa2sysdig" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="yhf@10.26.64.225:22 key">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/yhf/sghunter" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="yhf@10.26.64.225:22 key (2)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="yhf@10.26.64.225:22 key (3)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="yhf@10.26.64.225:22 key (4)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/yhf/sghunter" local="$PROJECT_DIR$" />
+            <mapping deploy="/home/yhf/Darpa/darpa2sysdig" local="E:/DARPA/darpa2sysdig" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="yhf@10.26.64.225:22 key (5)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/yhf/sghunter" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
