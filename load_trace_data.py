@@ -373,7 +373,6 @@ if __name__ == '__main__':
         all_raw_preds, all_preds, all_labels = [], [], []
         with torch.no_grad():
             for data in test_pts:
-
                 G1, G2, seeds, labels = move_to_device(data)
                 outputs = model(G1, G2, seeds)
                 loss = criterion(outputs, labels.double())
